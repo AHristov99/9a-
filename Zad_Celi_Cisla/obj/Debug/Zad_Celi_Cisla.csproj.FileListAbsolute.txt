@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1209-8\Desktop\Atanas\Zad_Celi_Cisla\bin\Debug\Zad_Celi_Cisla.exe.config
+C:\Users\STUDENTS-1209-8\Desktop\Atanas\Zad_Celi_Cisla\bin\Debug\Zad_Celi_Cisla.exe
+C:\Users\STUDENTS-1209-8\Desktop\Atanas\Zad_Celi_Cisla\bin\Debug\Zad_Celi_Cisla.pdb
+C:\Users\STUDENTS-1209-8\Desktop\Atanas\Zad_Celi_Cisla\obj\Debug\Zad_Celi_Cisla.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1209-8\Desktop\Atanas\Zad_Celi_Cisla\obj\Debug\Zad_Celi_Cisla.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1209-8\Desktop\Atanas\Zad_Celi_Cisla\obj\Debug\Zad_Celi_Cisla.exe
+C:\Users\STUDENTS-1209-8\Desktop\Atanas\Zad_Celi_Cisla\obj\Debug\Zad_Celi_Cisla.pdb
